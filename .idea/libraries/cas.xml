@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cas">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/cas.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
